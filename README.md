@@ -22,30 +22,37 @@ bands_key=key
 ```
 
 List of starting prompts
+
 ![start screen](./images/prompt_question.JPG)
 
 LIRI response to a movie search
+
 ![movie response](./images/movie_response.JPG)
 
 LIRI response to a band in town
+
 ![artist response](./images/artist_response.JPG)
 
 LIRI response to a song search on spotify
+
 ![song response](./images/song_response.JPG)
 
 LIRI response when random is selected
+
 ![random response](./images/random_response.JPG)
 
 LIRI response when user does not enter a name of the movie
+
 ![no movie response](./images/no_movie_response.JPG)
 
 LIRI response when user does not enter the name of the song
+
 ![no song response](./images/no_song_response.JPG)
 
-##API Utilized
+## API Utilized
 OMDB, Spotify, BandsinTown 
 
-##NPM Packages
+## NPM Packages
 * Moment
 * Spotify 
 * Axios
